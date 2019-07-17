@@ -1,4 +1,8 @@
 <style lang="less">
+  .container {
+    height: 500px;
+    background-color: rosybrown;
+  }
 </style>
 
 <template>

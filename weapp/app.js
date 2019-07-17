@@ -10,4 +10,4 @@ _core["default"].app({
   },
   onLaunch: function onLaunch() {},
   methods: {}
-}, {a: 1});
+}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1}, {a: 1});

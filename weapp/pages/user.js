@@ -9,4 +9,4 @@ _core["default"].page({
   computed: {},
   methods: {},
   created: function created() {}
-}, {info: {"components":{},"on":{}}, handlers: {}, models: {} });
+}, {info: {"components":{},"on":{}}, handlers: {}, models: {} }, {info: {"components":{},"on":{}}, handlers: {}, models: {} }, {info: {"components":{},"on":{}}, handlers: {}, models: {} });

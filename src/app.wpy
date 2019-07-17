@@ -34,22 +34,22 @@ wepy.app({
       navigationBarTextStyle: 'black'
     },
     tabBar: {
-      "color": "#999999",
-      "selectedColor": "#333333",
-      "list": [{
-        "pagePath": "pages/home",
-        "text": "首页",
-        // "iconPath": "images/icon_home.png",
-        // "selectedIconPath": "images/icon_home_active.png"
+      color: "#999999",
+      selectedColor: "#333333",
+      list: [{
+        pagePath: "pages/home",
+        text: "首页",
+        // iconPath: "images/icon_home.png",
+        // selectedIconPath: "images/icon_home_active.png"
       }, {
-        "pagePath": "pages/category",
-        "text": "分类",
+        pagePath: "pages/category",
+        text: "分类",
       }, {
-        "pagePath": "pages/shop_cart",
-        "text": "购物车"
+        pagePath: "pages/shop_cart",
+        text: "购物车"
       }, {
-        "pagePath": "pages/user",
-        "text": "我"
+        pagePath: "pages/user",
+        text: "我"
       }]
     }
 }
