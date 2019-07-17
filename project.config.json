@@ -9,5 +9,8 @@
   "compileType": "miniprogram",
   "appid": "touristappid",
   "projectname": "cpmart",
-  "miniprogramRoot": "./weapp"
+  "miniprogramRoot": "weapp/",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {}
 }

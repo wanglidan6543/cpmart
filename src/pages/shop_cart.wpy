@@ -1,0 +1,28 @@
+<style lang="less">
+</style>
+
+<template>
+  <view class="container">
+    这是购物车页面
+  </view>
+</template>
+
+<script>
+import wepy from '@wepy/core';
+
+wepy.page({
+  data: {},
+
+  computed: {},
+
+  methods: {},
+
+  created() {}
+});
+</script>
+<config>
+{
+    navigationBarTitleText: '购物车',
+    usingComponents: {}
+}
+</config>
