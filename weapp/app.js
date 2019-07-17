@@ -6,8 +6,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 
 _core["default"].app({
   globalData: {
-    userInfo: null,
-    data: []
+    userInfo: null
   },
   onLaunch: function onLaunch() {},
   methods: {}
